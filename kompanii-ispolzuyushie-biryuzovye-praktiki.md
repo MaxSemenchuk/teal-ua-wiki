@@ -24,20 +24,12 @@
 * [Ochi.io](http://www.ochi.io/)
 * [Yoctocode](http://yoctocode.com/)
 
-### Retail
-
-* Гаряча планета \(Holacracy\)
-* TOR-BA 
-* Пан Електро Промкабель
-* SOVA jewelry house
-* Gorilla
-
 ### B2B Service
 
 * Indigo \(HR\) – [Interview with Vera Budean](http://verabudean.com/blog/indigo)
 * Актив Система
 * Правое дело
-* Axon Partners
+* [Axon Partners](http://axon.partners/)
 * Relax Office System
 * Deloitter Garage
 * Национальная ассоциация медиаторов Украины
@@ -50,6 +42,14 @@
 * Unit Factory
 * Odessa Impact Hub
 * Teal UA
+
+### Retail
+
+* Гаряча планета \(Holacracy\)
+* TOR-BA 
+* Пан Електро Промкабель
+* SOVA jewelry house
+* Gorilla
 
 ### Manufacturing
 
