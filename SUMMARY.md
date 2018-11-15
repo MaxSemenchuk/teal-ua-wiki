@@ -12,6 +12,6 @@
 * [Open Organization \(Red Hat\)](open-organization-red-hat.md)
 * [Dinamic Equity \(Encode\)](dinamic-equity-by-encode.md)
 * [Инструкция ко мне \(EdEra\)](instrukciya-ko-mne-edera.md)
-* [Driver Mapping](driver-mapping.md)
+* [Sociocracy / Driver Mapping](driver-mapping.md)
 * [Cynefin framework](cynefin-framework.md)
 
