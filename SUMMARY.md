@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Teal UA wiki](README.md)
-* [Компании использующие бирюзовые практики\*](kompanii-ispolzuyushie-biryuzovye-praktiki.md)
+* [Украинские компании использующие бирюзовые практики\*](kompanii-ispolzuyushie-biryuzovye-praktiki.md)
 * [Спиральная динамика](spiralnaya-dinamika.md)
 * [Бирюзовые организации](biryuzovye-organizacii.md)
 * [Lean / Agile / Scrum](lean-agile-scrum.md)
