@@ -25,8 +25,8 @@ Zappos и Medium вышли
 
 **Больше по теме:**
 
-* "Холократия. Революционный подход в менеджменте" Брайан Робертсон
-* [https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B0%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B0%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
+* Холократия. Революционный подход в менеджменте" Брайан Робертсон
+* [Холакратия на Википедии](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B0%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
 * [Holacracy Practice](http://dao-foundation.atlassian.net/wiki/spaces/TEALUA/pages/133070899/Holacracy+Practice)
 * [Holacracy Constitution](http://dao-foundation.atlassian.net/wiki/spaces/TEALUA/pages/50069520/Holacracy+Constitution)
 * [https://www.holacracy.org/webinar-recording](https://www.holacracy.org/webinar-recording)

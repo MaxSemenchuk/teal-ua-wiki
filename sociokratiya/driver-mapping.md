@@ -10,7 +10,7 @@ Inspired by Gojko Adzic’s Impact Mapping, Driver Mapping is a workshop format 
 
 In the workshop small or large teams self-organize, innovate and take full ownership from start to finish, progress quickly from concept to fully functioning collaboration. In preparation: Send out the driver for the workshop in advance so people can familiarize themselves with it. Aim to resolve any objections to the driver statement before the workshop. Attendees may already prepare by thinking through and recording ideas of actors and relating needs.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## The Driver Mapping Process
 
@@ -73,7 +73,7 @@ While together, consider the Review the “needs” cards and check if there’s
 
 ### 10. Remember to celebrate your achievements in getting your organization started!
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
