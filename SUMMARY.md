@@ -15,4 +15,5 @@
 * [Dinamic Equity \(Encode\)](dinamic-equity-by-encode.md)
 * [Инструкция ко мне \(EdEra\)](instrukciya-ko-mne-edera.md)
 * [Cynefin framework](cynefin-framework.md)
+* [Misc](misc.md)
 
