@@ -11,5 +11,7 @@
 
 ## См также
 
+* [https://patterns.sociocracy30.org/pattern-index.html](https://patterns.sociocracy30.org/pattern-index.html)
+* [https://patterns.sociocracy30.org/](https://patterns.sociocracy30.org/)
 * [https://sociocracy30.org/](https://sociocracy30.org/)
 
