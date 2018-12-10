@@ -9,7 +9,7 @@
 * [Холакратия](kholakratiya.md)
 * [Социократия](sociokratiya/README.md)
   * [Sociocracy / Driver Mapping](sociokratiya/driver-mapping.md)
-* [Ненасильственное коммуникация \(ННК\) / Nonviolent Communication \(NVC\)](nenasilstvennoe-kommunikaciya-nnk-nonviolent-communication-nvc.md)
+* [Ненасильственное коммуникация \(ННК\) / Nonviolent Communication \(NVC\)](nenasilstvennoe-kommunikaciya-nnk-nonviolent-communication-nvc.md)
 * [Technology of Participation](technology-of-participation.md)
 * [Open Organization \(Red Hat\)](open-organization-red-hat.md)
 * [Dinamic Equity \(Encode\)](dinamic-equity-by-encode.md)

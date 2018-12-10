@@ -2,7 +2,7 @@
 
 \*Некоторые компании добавлены по неподтвержденным данным.
 
-### IT
+## IT
 
 * Racoon Gang \(Holacracy\)
 * Mementia \(Holacracy\)
@@ -25,9 +25,9 @@
 * [Yoctocode](http://yoctocode.com/)
 * [Rademade](https://rademade.com/)
 
-### B2B Service
+## B2B Service
 
-* Indigo \(HR\) – [Interview with Vera Budean](http://verabudean.com/blog/indigo)
+* Indigo \(HR\) – [Interview with Vera Budean](http://verabudean.com/blog/indigo)
 * Актив Система
 * Правое дело
 * [Axon Partners](http://axon.partners/)
@@ -35,7 +35,7 @@
 * Deloitter Garage
 * Национальная ассоциация медиаторов Украины
 
-### Education
+## Education
 
 * EdEra
 * White Sales
@@ -44,7 +44,7 @@
 * Odessa Impact Hub
 * Teal UA
 
-### Retail
+## Retail
 
 * Гаряча планета \(Holacracy\)
 * TOR-BA 
@@ -52,10 +52,8 @@
 * SOVA jewelry house
 * Gorilla
 
-### Manufacturing
+## Manufacturing
 
 * Centravis
 * Юрия-Фарм
-
-
 
