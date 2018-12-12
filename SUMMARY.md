@@ -6,6 +6,7 @@
 * [Украинские компании использующие бирюзовые практики\*](kompanii-ispolzuyushie-biryuzovye-praktiki.md)
 * [Провайдеры услуг](provaidery-uslug.md)
 * [Agile / Scrum](lean-agile-scrum.md)
+* [Диджитал инструменты](didzhital-instrumenty.md)
 * [Холакратия](kholakratiya.md)
 * [Социократия](sociokratiya/README.md)
   * [Sociocracy / Driver Mapping](sociokratiya/driver-mapping.md)
