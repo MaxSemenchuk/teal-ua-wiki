@@ -34,6 +34,7 @@
 * Relax Office System
 * Deloitter Garage
 * Национальная ассоциация медиаторов Украины
+* Банда
 
 ## Education
 
@@ -56,4 +57,8 @@
 
 * Centravis
 * Юрия-Фарм
+
+## NGO
+
+* Жизнелюб
 
