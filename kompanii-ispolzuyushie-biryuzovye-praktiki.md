@@ -51,7 +51,7 @@
 * TOR-BA 
 * Пан Електро Промкабель
 * SOVA jewelry house
-* Gorilla
+* Gorilla служба доставки
 
 ## Manufacturing
 
