@@ -4,6 +4,7 @@
 * [Украинские компании использующие бирюзовые практики\*](kompanii-ispolzuyushie-biryuzovye-praktiki.md)
 * [Провайдеры услуг](provaidery-uslug.md)
 * [Бирюзовые организации](biryuzovye-organizacii.md)
+* [Стратегия 2019](strategiya-2019.md)
 
 ## PRACTICES
 
