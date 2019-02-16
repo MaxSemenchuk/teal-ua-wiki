@@ -1,13 +1,14 @@
 # Table of contents
 
 * [Teal UA wiki](README.md)
-* [Украинские компании использующие бирюзовые практики\*](kompanii-ispolzuyushie-biryuzovye-praktiki.md)
-* [Провайдеры услуг](provaidery-uslug.md)
-* [Бирюзовые организации](biryuzovye-organizacii.md)
-* [Стратегия 2019](strategiya-2019.md)
+
+## org
+
+* [Стратегия](org/strategiya-2019.md)
 
 ## PRACTICES
 
+* [Бирюзовые организации](practices/biryuzovye-organizacii.md)
 * [Спиральная динамика](practices/spiralnaya-dinamika.md)
 * [Agile / Scrum](practices/lean-agile-scrum.md)
 * [Холакратия](practices/kholakratiya.md)
