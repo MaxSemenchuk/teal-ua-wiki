@@ -6,6 +6,7 @@
 
 * [Стратегия](org/strategiya-2019.md)
 * [Governance](org/governance.md)
+* [Лого](org/logo.md)
 
 ## PRACTICES
 
