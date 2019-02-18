@@ -4,22 +4,15 @@ Teal ua uses a Holacracy-like model as a governance model. Check brief [holacrac
 
 ## Роли
 
-* Practice Developer – Лада?
-  * Community Support – Сая?
+* Practice Developer – 
 * Partners Manager – Полина?
-  * Event Admin – Полина?
+* Event Admin – Полина?
 * Content Expert – Лиля?
 * Team Care – Макс?
 
 ### Practice Developer
 
-Purpose:
-
-Responsibilities:
-
-### Community Support
-
-Purpose:
+Purpose: Поддержка практиков во внедрении бирюзовых подходов
 
 Responsibilities:
 
