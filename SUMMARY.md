@@ -4,7 +4,11 @@
 
 ## org
 
-* [Стратегия](org/strategiya-2019.md)
+* [Стратегия](org/strategiya-2019/README.md)
+  * [Развитие практиков](org/strategiya-2019/razvitie-praktikov.md)
+  * [Плодотворные отношение с партнерами](org/strategiya-2019/plodotvornye-otnoshenie-s-partnerami.md)
+  * [Обучение широкой общественности](org/strategiya-2019/obuchenie-shirokoi-obshestvennosti.md)
+  * [Поддержка команды](org/strategiya-2019/podderzhka-komandy.md)
 * [Governance](org/governance.md)
 * [Лого](org/logo.md)
 
