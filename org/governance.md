@@ -16,6 +16,8 @@ Purpose: Поддержка практиков во внедрении бирю�
 
 Responsibilities:
 
+* Community Support
+
 ### Partners Manager
 
 Purpose:
