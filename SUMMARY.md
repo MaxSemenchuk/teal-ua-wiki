@@ -2,17 +2,6 @@
 
 * [Teal UA wiki](README.md)
 
-## org
-
-* [Стратегия](org/strategiya-2019/README.md)
-  * [Развитие практиков](org/strategiya-2019/razvitie-praktikov.md)
-  * [Плодотворные отношение с партнерами](org/strategiya-2019/plodotvornye-otnoshenie-s-partnerami.md)
-  * [Обучение широкой общественности](org/strategiya-2019/obuchenie-shirokoi-obshestvennosti.md)
-  * [Поддержка команды](org/strategiya-2019/podderzhka-komandy.md)
-* [Governance](org/governance.md)
-* [История и публикации](org/istoriya-i-publikacii.md)
-* [Лого](org/logo.md)
-
 ## PRACTICES
 
 * [Бирюзовые организации](practices/biryuzovye-organizacii.md)
@@ -27,4 +16,15 @@
 * [Dinamic Equity \(Encode\)](practices/dinamic-equity-by-encode.md)
 * [Open Organization \(Red Hat\)](practices/open-organization-red-hat.md)
 * [Cynefin framework](practices/cynefin-framework.md)
+
+## org
+
+* [Стратегия](org/strategiya-2019/README.md)
+  * [Развитие практиков](org/strategiya-2019/razvitie-praktikov.md)
+  * [Плодотворные отношение с партнерами](org/strategiya-2019/plodotvornye-otnoshenie-s-partnerami.md)
+  * [Обучение широкой общественности](org/strategiya-2019/obuchenie-shirokoi-obshestvennosti.md)
+  * [Поддержка команды](org/strategiya-2019/podderzhka-komandy.md)
+* [Governance](org/governance.md)
+* [История и публикации](org/istoriya-i-publikacii.md)
+* [Лого](org/logo.md)
 
