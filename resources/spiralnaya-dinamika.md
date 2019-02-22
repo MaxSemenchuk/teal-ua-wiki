@@ -71,6 +71,7 @@ they can help with getting right direction
 ## **Больше по теме:**
 
 * [Бирюзовые организации](https://www.mann-ivanov-ferber.ru/teal-organization/) \(Манн, Иванов, Фербер\)
+* Холакратия. Революционный подход в менеджменте. Брайан Робертсон
 * Спиральная динамика. Управляя ценностями, лидерством и изменениями в XXI веке
 * "Открывая организации будущего", Фредерик Лалу
 * [https://blog.p2pfoundation.net/a-critique-of-the-subtle-hierarchism-of-the-teal-organizations-concept-in-the-book-reinventing-organizations/2015/10/29](https://blog.p2pfoundation.net/a-critique-of-the-subtle-hierarchism-of-the-teal-organizations-concept-in-the-book-reinventing-organizations/2015/10/29)

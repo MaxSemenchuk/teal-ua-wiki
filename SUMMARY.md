@@ -6,16 +6,18 @@
 
 * [Что такое бирюзовые организации?](resources/spiralnaya-dinamika.md)
 * [Список бирюзовых организаций в Украине](resources/spisok-biryuzovykh-organizacii-v-ukraine.md)
-* [Agile / Scrum](resources/lean-agile-scrum.md)
+* [Провайдеры услуг](resources/provaidery-uslug.md)
+* [Цифровые инструменты](resources/cifrovye-instrumenty.md)
 * [Холакратия](resources/kholakratiya.md)
 * [Социократия](resources/sociokratiya.md)
 * [Фасилитация \(ToP\)](resources/technology-of-participation.md)
 * [Ненасильственное коммуникация \(ННК\) / Nonviolent Communication \(NVC\)](resources/nenasilstvennoe-kommunikaciya-nnk-nonviolent-communication-nvc.md)
-* [Sociocracy / Driver Mapping](resources/driver-mapping.md)
+* [Sociocracy / Driver Mapping](resources/sociocracy-driver-mapping.md)
 * [Инструкция ко мне \(EdEra\)](resources/instrukciya-ko-mne-edera.md)
 * [Dinamic Equity \(Encode\)](resources/dinamic-equity-by-encode.md)
 * [Open Organization \(Red Hat\)](resources/open-organization-red-hat.md)
 * [Cynefin framework](resources/cynefin-framework.md)
+* [Статьи по темам](resources/stati-po-temam.md)
 
 ## org
 
