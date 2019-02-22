@@ -1,21 +1,21 @@
 # Table of contents
 
-* [Teal UA wiki](README.md)
+* [Навигация](README.md)
 
-## PRACTICES
+## Resources
 
-* [Бирюзовые организации](practices/biryuzovye-organizacii.md)
-* [Спиральная динамика](practices/spiralnaya-dinamika.md)
-* [Agile / Scrum](practices/lean-agile-scrum.md)
-* [Холакратия](practices/kholakratiya.md)
-* [Социократия](practices/sociokratiya.md)
-* [Фасилитация \(ToP\)](practices/technology-of-participation.md)
-* [Ненасильственное коммуникация \(ННК\) / Nonviolent Communication \(NVC\)](practices/nenasilstvennoe-kommunikaciya-nnk-nonviolent-communication-nvc.md)
-* [Sociocracy / Driver Mapping](practices/driver-mapping.md)
-* [Инструкция ко мне \(EdEra\)](practices/instrukciya-ko-mne-edera.md)
-* [Dinamic Equity \(Encode\)](practices/dinamic-equity-by-encode.md)
-* [Open Organization \(Red Hat\)](practices/open-organization-red-hat.md)
-* [Cynefin framework](practices/cynefin-framework.md)
+* [Бирюзовые организации](resources/biryuzovye-organizacii.md)
+* [Спиральная динамика](resources/spiralnaya-dinamika.md)
+* [Agile / Scrum](resources/lean-agile-scrum.md)
+* [Холакратия](resources/kholakratiya.md)
+* [Социократия](resources/sociokratiya.md)
+* [Фасилитация \(ToP\)](resources/technology-of-participation.md)
+* [Ненасильственное коммуникация \(ННК\) / Nonviolent Communication \(NVC\)](resources/nenasilstvennoe-kommunikaciya-nnk-nonviolent-communication-nvc.md)
+* [Sociocracy / Driver Mapping](resources/driver-mapping.md)
+* [Инструкция ко мне \(EdEra\)](resources/instrukciya-ko-mne-edera.md)
+* [Dinamic Equity \(Encode\)](resources/dinamic-equity-by-encode.md)
+* [Open Organization \(Red Hat\)](resources/open-organization-red-hat.md)
+* [Cynefin framework](resources/cynefin-framework.md)
 
 ## org
 
