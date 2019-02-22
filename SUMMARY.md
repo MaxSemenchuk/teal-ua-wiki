@@ -4,8 +4,8 @@
 
 ## Resources
 
-* [Бирюзовые организации](resources/biryuzovye-organizacii.md)
-* [Спиральная динамика](resources/spiralnaya-dinamika.md)
+* [Что такое бирюзовые организации?](resources/spiralnaya-dinamika.md)
+* [Список бирюзовых организаций в Украине](resources/spisok-biryuzovykh-organizacii-v-ukraine.md)
 * [Agile / Scrum](resources/lean-agile-scrum.md)
 * [Холакратия](resources/kholakratiya.md)
 * [Социократия](resources/sociokratiya.md)
