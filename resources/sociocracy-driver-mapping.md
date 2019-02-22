@@ -1,4 +1,4 @@
-# Sociocracy / Driver Mapping
+# Драйвер мэппинг
 
 A pattern for emergent self-organization
 

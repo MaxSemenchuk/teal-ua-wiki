@@ -1,4 +1,4 @@
-# Open Organization \(Red Hat\)
+# Open Organization
 
 Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. They've seen that openness can lead to:
 
@@ -17,6 +17,8 @@ While every organization is different—and therefore every example of an open o
 * Adaptability
 * Collaboration
 * Community
+
+by Red Hat
 
 [https://opensource.com/open-organization/resources/open-org-definition](https://opensource.com/open-organization/resources/open-org-definition)
 
