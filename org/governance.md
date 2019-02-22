@@ -4,11 +4,11 @@ Teal ua uses a Holacracy-like model as a governance model. Check brief [holacrac
 
 ## Роли
 
-* Practice Developer – 
-* Partners Manager – Полина?
-* Event Admin – Полина?
-* Content Expert – Лиля?
-* Team Care – Макс?
+* Practice Developer – ...
+* Partners Manager – Полина
+* Event Admin – Полина
+* Content Expert – Лада, Лиля
+* Team Care – Макс
 
 ### Practice Developer
 
