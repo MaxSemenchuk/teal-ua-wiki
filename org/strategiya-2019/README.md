@@ -7,13 +7,9 @@
 ## Цели 2019
 
 1. [Развитие практиков](razvitie-praktikov.md) \(Practice Developer\)
-   * ...
 2. [Плодотворные отношение с партнерами](plodotvornye-otnoshenie-s-partnerami.md) \(Partner Manager\)
-   * ...
 3. [Обучение широкой общественности](obuchenie-shirokoi-obshestvennosti.md) \(Content Expert\)
-   * ...
 4. [Поддержка команды](podderzhka-komandy.md) \(Team Support\)
-   * ...
 
 ## Governance
 
