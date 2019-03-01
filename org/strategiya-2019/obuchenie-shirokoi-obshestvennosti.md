@@ -35,7 +35,7 @@
 
 [Ревью украинских переводов от Паши](https://drive.google.com/drive/u/1/folders/1hmP3ecOFfLkvs6yDHPJO--QRfCL6niWe)
 
-
+больше запросов: [https://docs.google.com/document/d/1aEafH082zIvuWShzRRJRNoGKW5BIG19PZRetOJPTtXU/edit](https://docs.google.com/document/d/1aEafH082zIvuWShzRRJRNoGKW5BIG19PZRetOJPTtXU/edit)
 
 ## Материалы получают широкий охват
 
