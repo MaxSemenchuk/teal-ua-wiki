@@ -45,11 +45,12 @@ Teal ua uses a Holacracy-like model as a governance model. Check brief [holacrac
 
 ### Practice Developer
 
-Purpose: развитие практиков
+Purpose: создавать условия для развития практиков
 
 Responsibilities:
 
-* Community Support
+* Предлагать действия и проекты направленные на создание пользы для развития практиков
+* Собирать обратную связь от практиков о продуктах организации
 
 ### Partners Manager
 
