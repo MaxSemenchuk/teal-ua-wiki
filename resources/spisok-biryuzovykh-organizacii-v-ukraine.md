@@ -43,7 +43,7 @@
 
 ### Retail
 
-* Гаряча планета \(Holacracy\)
+* [Teplex](https://teplex.ua/) \(Holacracy\)
 * TOR-BA 
 * Пан Електро Промкабель
 * SOVA jewelry house
