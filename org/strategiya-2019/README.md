@@ -53,6 +53,12 @@
 Чтобы попасть в чат нужно написать в телеграме @SayaSemenchuk где ты видел бирюзу
 {% endhint %}
 
+{% hint style="info" %}
+### Бирюзовая экосистема
+
+Бирюзовая экосистема: бирюзовым работать с бирюзовыми. Давайте перки, бесплатные консультации
+{% endhint %}
+
 ## Governance
 
 Teal ua uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](https://wiki.dgov.foundation/org/roles/holacracy). Changes to policies and roles are done through the Holacracy IDM process. 
