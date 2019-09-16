@@ -11,6 +11,24 @@
 3. [Обучение широкой общественности](obuchenie-shirokoi-obshestvennosti.md) \(Content Expert\)
 4. [Поддержка команды](podderzhka-komandy.md) \(Team Support\)
 
+{% hint style="info" %}
+### Бирюзовый exchange
+
+Задача:
+
+* Как создать более тесные связи в сообществе
+* Как помогать бирюзовым развиваться
+* Как качественно исследовать бирюзовые организации
+
+Процесс:
+
+* Есть доска объявлений
+* Можно открыть вакансию на день – например "нужна помощь с PR"
+* Люди из коммьюнити откликаются в случае заинтересованности и приходят поработать
+* Потом пишут отчет о том как прошла стажировка \(какой был онбординг, как работают процессы, какие улучшения они заметили\)
+* Если у тебя кто-то поработал, кто-то из твоей организации должен тоже пойти поработать
+{% endhint %}
+
 ## Governance
 
 Teal ua uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](https://wiki.dgov.foundation/org/roles/holacracy). Changes to policies and roles are done through the Holacracy IDM process. 
