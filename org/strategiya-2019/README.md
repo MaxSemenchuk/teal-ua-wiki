@@ -18,7 +18,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-### [Бирюзовый exchange](../../biryuzovyi-ekschendzh.md)
+### [Бирюзовый exchange](../../teal-exchange.md)
 {% endhint %}
 
 {% hint style="info" %}

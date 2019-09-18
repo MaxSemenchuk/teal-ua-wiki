@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Навигация](README.md)
-* [Бирюзовый эксчендж](biryuzovyi-ekschendzh.md)
+* [Бирюзовый эксчендж](teal-exchange.md)
 
 ## Resources
 
