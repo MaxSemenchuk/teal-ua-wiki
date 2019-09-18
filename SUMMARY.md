@@ -20,6 +20,10 @@
 * [Cynefin framework](resources/cynefin-framework.md)
 * [Статьи по темам](resources/stati-po-temam.md)
 
+## Встречи <a id="meetups"></a>
+
+* [19.09.2019](meetups/19.09.2019.md)
+
 ## org
 
 * [Стратегия](org/strategiya-2019/README.md)

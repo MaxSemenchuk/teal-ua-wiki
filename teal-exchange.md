@@ -27,4 +27,5 @@
 ## Доступные специалисты
 
 * [Макс Семенчук](http://maxsemenchuk.com/) \(4irelabs, dgov foundation, teal ua, global shapers\)
+* [Диана Даюб](https://www.facebook.com/diana.dayub) \(EdEra, Global Shapers\)
 
