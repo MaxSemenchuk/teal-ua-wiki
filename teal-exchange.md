@@ -22,7 +22,8 @@
 
 ## Открытые позиции
 
-* [4irelabs](https://4irelabs.com/) – интересуют компетенции вокруг брендинга и ведения коммьюнити. Писать на max.semenchuk@gmail.com
+* [4irelabs](https://4irelabs.com/) – интересуют компетенции вокруг брендинга и ведения коммьюнити. Писать Максу на [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com)
+* [Relax Office Systems](http://officemassage.com.ua) – интересуют 1\) маркетинг и онлайн маркетинг 2\) внутренняя коммуникация. Писать Никите \(CEO\) на [officemassage.com.ua@gmail.com](mailto:officemassage.com.ua@gmail.com)
 
 ## Доступные специалисты
 
