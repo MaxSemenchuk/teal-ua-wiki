@@ -26,6 +26,6 @@
 
 ## Доступные специалисты
 
-* [Макс Семенчук](http://maxsemenchuk.com/) \(4irelabs, dgov foundation, teal ua, global shapers\)
-* [Диана Даюб](https://www.facebook.com/diana.dayub) \(EdEra, Global Shapers\)
+* [Макс Семенчук](http://maxsemenchuk.com/) \(4irelabs, dgov foundation, teal ua, global shapers\) – Org Innovator, Entrepreneur, Product Manager, UX Designer.
+* [Диана Даюб](https://www.facebook.com/diana.dayub) – работала в конгрессе США и развивает партнерства в EdEra, куратор сообщества Global Shapers
 
