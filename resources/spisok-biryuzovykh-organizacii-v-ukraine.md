@@ -38,8 +38,9 @@
 
 ### Education
 
-* EdEra
-* Unit Factory
+* [Beetroot Academy](https://beetroot.academy/en/)
+* [EdEra](https://www.ed-era.com/)
+* [Unit Factory](https://unit.ua/en/)
 
 ### Retail
 
