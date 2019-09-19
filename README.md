@@ -21,7 +21,7 @@
 
 ## Teal UA
 
-* [Стратегия](org/strategiya-2019/)
+* [Стратегия](org/strategiya-2019.md)
 * [О нас](org/istoriya-i-publikacii.md)
 * [Лого](org/logo.md)
 
