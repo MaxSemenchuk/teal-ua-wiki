@@ -4,12 +4,35 @@
 
 Мы ищем тех у кого зарождаются бирюзовые и пытаемся быть им реально полезными. Мы создаем место для практики и обсуждения, соединяем консультантов и практиков, чтобы усиливать бирюзовых и они показали что жизнь после этого есть. Также мы развиваем "нижние" парадигмы \(зеленые, оранжевые и тд\), а также развитием бирюзовую идею в Украине. Чтобы в итоге стало больше бирюзовых.
 
-## Цели 2019
+## Команда
 
-1. [Развитие практиков](razvitie-praktikov.md) \(Practice Developer\)
-2. [Плодотворные отношение с партнерами](plodotvornye-otnoshenie-s-partnerami.md) \(Partner Manager\)
-3. [Обучение широкой общественности](obuchenie-shirokoi-obshestvennosti.md) \(Content Expert\)
-4. [Поддержка команды](podderzhka-komandy.md) \(Team Support\)
+### Организация фана и душевности для команды
+
+оффлайн встречи
+
+### В команде есть определенность по назначению, стратегии, целям и ролям
+
+Стратегия, темы, план, критерии
+
+### В команде происходит справедливый обмен ценностью
+
+* Компенсационный план \(Макс\)
+* Реализация своих проектов / развитие
+* Фестиваль тантры
+* Получение опыта работа в teal организациях
+* Фан, комфорт, здоровье
+
+## Развитие практиков
+
+Поддержка практиков во внедрении бирюзовых подходов.
+
+ЦА:
+
+* украинская академия лидерства
+* правительство
+* аспен
+* форум
+* бизнес сообщества
 
 {% hint style="info" %}
 ### Бирюзовый нетворк
@@ -47,70 +70,90 @@
 Бирюзовая экосистема: бирюзовым работать с бирюзовыми. Давайте перки, бесплатные консультации
 {% endhint %}
 
-## Governance
+{% hint style="info" %}
+### База знаний
+{% endhint %}
 
-Teal ua uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](https://wiki.dgov.foundation/org/roles/holacracy). Changes to policies and roles are done through the Holacracy IDM process. 
+{% hint style="info" %}
+### Бирюзовый список
 
-### Роли
+* Список организаций
+* Пиар \(например звать спикерами\)
+* Книга / брошюра про бирюзование компании в Украине
+{% endhint %}
 
-* Lead Link – Макс
-* Practice Developer – Макс
-* Partners Manager – Полина
-* Event Admin – Полина
-* Content Expert – Лада, Лиля, Артем
-* Team Care – Макс
-* Фасилитатор – 
-* Секретарь –
+## Плодотворные отношение с партнерами
 
-### Lead Link
+Для консультантов \(эксперты, фасилитаторы, agile коучи, еванеглисты\)
 
-**Purpose:** та же что и у организации
+### Сообщество генерирует клиентов и заказы
 
-#### Domains
+#### Возможности презентации / выхода на аудиторию
 
-* Role assignments within the Circle
+CRM + мэппинг
 
-#### Accountabilities
+Давать презентации на митапах
 
-* Assigning Partners to the Circle’s Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit
-* Allocating the Circle’s resources across its various Projects and/or Roles
-* Establishing priorities and Strategies for the Circle
-* Defining metrics for the circle
-* Structuring the Governance of the Circle to enact its Purpose and Accountabilities
-* Removing constraints within the Circle to the Super-Circle enacting its Purpose and Accountabilities
+E-mail Рассылка
 
-### Practice Developer
+Сайт, контент + инфо в соц сетях
 
-Purpose: создавать условия для развития практиков
+Реклама, аудитория
 
-Responsibilities:
+#### Сбор и передача запросов
 
-* Предлагать действия и проекты направленные на создание пользы для развития практиков
-* Собирать обратную связь от практиков о продуктах организации
+...
 
-### Partners Manager
+### Площадки получают рекламу в нашей аудитории
 
-Purpose: Плодотворные отношение с партнерами
+Экскурсии
 
-Responsibilities:
+### Сувенирка
 
-### Event Admin
+форму онлайн заказа футболок, чашек и прочей сувенирки с логотипом и передавать заказы доверенному подрядчику
 
-Purpose: организация мероприятий
+## Интеграция с широкой общественностью
 
-Responsibilities:
+Распостранять знания и вдохновлять других чтобы было больше хороших \(меньше плохих\) организаций/людей для партнерства. Сделать так чтобы использовались хорошие практики, а не "кривые" в как например насилие. 
 
-* создание договоренностей с площадками
+Создать больше здоровье в обществе, сила для людей \(противостоять руководителю\), понимания смысла и бизнеса с человеческим лицом.
 
-### Content Expert
+Ценности: Безопасность, развитие
 
-Purpose: Обучение широкой общественности
+### Кейсы бирюзовых организаций раскрыты
 
-Responsibilities:
+Форматы
 
-### Team Care
+* Спичи
+* Статьи
+* Подкасты
+* Бирюзовые грабли
 
-Purpose:
+Кейс стади в вики со ссылками на практики
 
-Responsibilities:
+### Визиты в компании
+
+...
+
+### Оценка-фреймворк для принятия решения о внедрении
+
+...
+
+### Предметные эксперты и экспертизы представлены в полноте
+
+Собрать базу знаний \(вики\) по бирюзовым практикам: книги, статьи, техники
+
++ приглашение на курсы, ивенты и тд
+
+Ежемесячная рассылка
+
+[Ревью украинских переводов от Паши](https://drive.google.com/drive/u/1/folders/1hmP3ecOFfLkvs6yDHPJO--QRfCL6niWe)
+
+больше запросов: [https://docs.google.com/document/d/1aEafH082zIvuWShzRRJRNoGKW5BIG19PZRetOJPTtXU/edit](https://docs.google.com/document/d/1aEafH082zIvuWShzRRJRNoGKW5BIG19PZRetOJPTtXU/edit)
+
+### Материалы получают широкий охват
+
+* Выступления на конференциях, радио и тд
+* Гостевые посты
+* Рассылка
 
