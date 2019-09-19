@@ -42,6 +42,8 @@
 
 {% hint style="info" %}
 ### [Бирюзовый exchange](../teal-exchange.md)
+
+* Пооткрывать ручками потребности в организации у бирюзовых организации
 {% endhint %}
 
 {% hint style="info" %}
