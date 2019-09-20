@@ -25,6 +25,12 @@
 * [О нас](org/istoriya-i-publikacii.md)
 * [Лого](org/logo.md)
 
+##  Продукты
+
+* [Курс Артема](http://advanceonline.com.ua/serdyuk-online)
+* Митапы
+* Бирюзовый эксчендж
+
 ## Процесс
 
 Это открытая вики, модерируется кем-то из команды, пишет сообщество, с указанием автора/компании. Красивая версия: [https://wiki.teal.org.ua/](https://wiki.teal.org.ua/)

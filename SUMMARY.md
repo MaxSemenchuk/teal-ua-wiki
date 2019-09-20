@@ -22,6 +22,7 @@
 
 ## Встречи <a id="meetups"></a>
 
+* [Формат Митапов](meetups/format-mitapov.md)
 * [19.09.2019](meetups/19.09.2019.md)
 
 ## org
