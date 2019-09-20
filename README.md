@@ -28,8 +28,8 @@
 ##  Продукты
 
 * [Курс Артема](http://advanceonline.com.ua/serdyuk-online)
-* Митапы
-* Бирюзовый эксчендж
+* [Митапы](meetups/format-mitapov.md)
+* [Бирюзовый эксчендж](teal-exchange.md)
 
 ## Процесс
 
