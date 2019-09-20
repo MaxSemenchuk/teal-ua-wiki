@@ -30,4 +30,5 @@
 * [Макс Семенчук](http://maxsemenchuk.com/) \(4irelabs, dgov foundation, teal ua, global shapers\) – Org Innovator, Entrepreneur, Product Manager, UX Designer.
 * [Диана Даюб](https://www.facebook.com/diana.dayub) – работала в конгрессе США, развивает партнерства в EdEra, куратор сообщества Global Shapers
 * [Павел Ступко](https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%BE-0ab04160/?originalSubdomain=ru)
+* [Илья Бойко](https://www.facebook.com/ilya.boyko.16) – Product/Project Manager, Team Coach, Organizational consultant
 
