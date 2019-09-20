@@ -28,6 +28,6 @@
 ## Доступные специалисты
 
 * [Макс Семенчук](http://maxsemenchuk.com/) \(4irelabs, dgov foundation, teal ua, global shapers\) – Org Innovator, Entrepreneur, Product Manager, UX Designer.
-* [Павел Ступко](https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%BE-0ab04160/?originalSubdomain=ru)
+* [Павел Ступко](https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%81%D1%82%D1%83%D0%BF%D0%BA%D0%BE-0ab04160/?originalSubdomain=ru) \(Промышленные продажи, ItealN, ITealMed, Стерилизорро\) диагностика бизнес-процессов, стандартизация и автоматизация на базе 1С, построение отделов b2b продаж, создание бирюзовой Команды. На 1 день могу быть полезен тем, что неплохо провожу аудит бизнес-процессов и быстро могу подсказать, где лечить. Местонахождение - Москва, возможен онлайн
 * [Илья Бойко](https://www.facebook.com/ilya.boyko.16) – Product/Project Manager, Team Coach, Organizational consultant
 
