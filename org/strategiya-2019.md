@@ -101,6 +101,10 @@
 Open value network для тила, начать с Никитой по велнес?
 {% endhint %}
 
+{% hint style="info" %}
+Сделать конференцию вокруг Лалу
+{% endhint %}
+
 ### Больше бирюзовых
 
 * Account Teal Ua should post comments on business topics
