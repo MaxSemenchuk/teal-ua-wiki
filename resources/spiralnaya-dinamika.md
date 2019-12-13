@@ -57,16 +57,16 @@ c. Нет единого «офисного стиля» оформления. �
 
 Высвобождение энергии через 1\) стремление к эв цели 2\) распределение власти 3\) обучение 4\) лучшее использование таланта 5\) меньше энергии на эго 6\) меньше энергии на проверки соответствия 7\) на собрания
 
-problem is in maturity and engagement level  
-Personal growth of every employee to strongly connect to the mission  
-To become open in front of customers in the broad sense:  
-- clients  
-- employees  
-- industry  
-- society  
-To become open and improve trust, that will allow better collaboration  
-To acquire partners among most progressive people  
-they can help with getting right direction
+Problem is in maturity and engagement level. Personal growth of every employee to strongly connect to the mission. To become open in front of customers in the broad sense:
+
+* clients
+* employees
+* industry
+* society
+
+To become open and improve trust, that will allow better collaboration. To acquire partners among most progressive people, they can help with getting right direction
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## **Больше по теме:**
 
