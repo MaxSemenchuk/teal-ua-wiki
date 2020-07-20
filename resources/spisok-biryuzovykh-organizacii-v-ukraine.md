@@ -24,6 +24,7 @@
 * Ochi.io
 * Yoctocode
 * Rademade
+* [RemoteWork Ukraine](https://remoteworkukraine.com)
 
 ## B2B Service
 
@@ -32,7 +33,7 @@
 * Правое дело – [кейс стади](https://medium.com/teal-ua/holacracy-at-pravoedelo-fba442d4760c)
 * Актив Система
 * Relax Office System
-* Deloitter Garage
+* Deloitte Garage
 * Национальная ассоциация медиаторов Украины
 * Банда
 

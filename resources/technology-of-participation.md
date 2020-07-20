@@ -14,9 +14,15 @@
   
 При помощи фасилитации можно решить любую задачу, поставленную перед совещанием, дилерской конференцией, цикловым митингом, стратегической сессией. 
 
-Много видео по фасилитации, сборник от Наташи Карповой: [https://m.youtube.com/channel/UCGyjo\_8rR5aJa5bTetWaZyw?view\_as=subscriber](https://m.youtube.com/channel/UCGyjo_8rR5aJa5bTetWaZyw?view_as=subscriber)
-
 ### ОРИП
 
 {% embed url="https://www.youtube.com/watch?v=ih11BuJCcJ4" %}
+
+## Больше информации
+
+* [Группа "Фасилитаторы всех стран"](https://www.facebook.com/groups/975343552524281)
+* [Knowledge Solution Workbook](https://lookaside.fbsbx.com/file/Knowledge%20Solutions.pdf?token=AWziQjIKp5PNYUOyMc3Gn_MTlCJx6wLGwcea2TFl_laBfsreVxy4FZwVEseRwPNxwoJrVFCBT-aLDzKji101RmkkIP4glTHNnSmU2BYOe2MaiaOQzxiUYcxgWuOpoiG1zLbqRP5_VcWak6dY_6TlDtS4u5BBHog_LyPfdHUh1Ifw7i4e62lEdXlP9EjSjzIq-A6NSCQeSli7qf3kYrpcsVyw)
+* [Много видео по фасилитации, сборник от Наташи Карповой](https://m.youtube.com/channel/UCGyjo_8rR5aJa5bTetWaZyw?view_as=subscriber)
+
+
 
