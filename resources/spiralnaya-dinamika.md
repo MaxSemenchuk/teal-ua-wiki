@@ -84,4 +84,5 @@ To become open and improve trust, that will allow better collaboration. To acqui
 * [https://habrahabr.ru/company/zpayment/blog/313414/](https://habrahabr.ru/company/zpayment/blog/313414/)
 * Семлера Рикардо «Маверик. История успеха самой необычной компании в мире»
 * [Вики Максима Цепкова](http://mtsepkov.org/%D0%AF_%E2%80%94_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A6%D0%B5%D0%BF%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E_%D0%92%D0%B0%D1%81_%D0%BD%D0%B0_%D1%81%D0%B2%D0%BE%D0%B5%D0%BC_%D1%81%D0%B0%D0%B9%D1%82%D0%B5)
+* \*\*\*\*[**A Garbage Can Model of Organizational Choice**](https://pdfs.semanticscholar.org/0b96/95c173c289d03bf6e78572b00e0d31022756.pdf?_ga=2.3434294.740769565.1599132169-431534459.1599132169) ****Michael D. Cohen, James G. March and Johan P. Olsen
 
